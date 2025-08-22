@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Divyansh Goyal</h1>
 <h3 align="center">Just An Average Engineer</h3>
-<img align="right" alt="Coding" width="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhnZXFpOTNzeTljNXpxc3F4ZDJwc2d0bHNveDV3OWRnbmxiN2lpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="Coding" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhnZXFpOTNzeTljNXpxc3F4ZDJwc2d0bHNveDV3OWRnbmxiN2lpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif">
 
 
 
