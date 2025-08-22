@@ -1,4 +1,4 @@
-[[!MasterHead](https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif)]
+[![MasterHead](https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif)]
 <h1 align="center">Hi 👋, I'm Divyansh Goyal</h1>
 <h3 align="center">Just An Average Engineer</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
