@@ -21,7 +21,7 @@
 
 **- 💬 Ask me about Android,Linux**
 
-**- 📫 My Contact thedivyanshindustries@gmail.com**
+**- 📫 My Contact contact@divyanshgoyal.me**
 
 **- ⚡ Fun Fact Iam a Ghost**
 
@@ -30,7 +30,7 @@
 <a href="https://twitter.com/divyanshgoyalog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyanshgoyalog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realdivyanshgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realdivyanshgoyal" height="30" width="40" /></a>
 <a href="https://codesandbox.com/realdivyanshgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="realdivyanshgoyal" height="30" width="40" /></a>
-<a href="https://instagram.com/realdivyanshgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realdivyanshgoyal" height="30" width="40" /></a>
+<a href="https://instagram.com/divyanshgoyal.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realdivyanshgoyal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/realdivyanshgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="realdivyanshgoyal" height="30" width="40" /></a>
 </p>
 
