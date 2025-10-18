@@ -1,4 +1,3 @@
-
  <p align="center">
   <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="1280" height="640" />
 </p>
