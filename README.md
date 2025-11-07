@@ -56,13 +56,17 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 
 ### 📊 GitHub Stats
 
-<p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden;">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshgoyal1&show_icons=true&theme=radical&title_color=FF1744&icon_color=FF1744&text_color=fff&bg_color=270026,440033&border_color=FF1744&hide_border=false" alt="GitHub stats" />
+<p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: linear-gradient(135deg, #270026 0%, #440033 100%); padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshgoyal1&show_icons=true&theme=dark&title_color=FF1744&icon_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="GitHub stats" />
 </p>
 
-<p align="center" style="margin-top: 10px; box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshgoyal1&theme=radical&hide_border=false&background=270026,440033&currStreakLabel=FF1744&ring=FF1744&fire=FF1744&sideLabels=FF1744" alt="GitHub streak" />
+
+<p align="center" style="margin-top:10px; box-shadow:0 0 30px #ff1744cc; border-radius:20px; overflow:hidden; background:linear-gradient(135deg, #270026 0%, #440033 100%); padding:10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshgoyal1&amp;theme=dark&amp;hide_border=false&amp;background=000000&amp;currStreakLabel=FF1744&amp;ring=FF1744&amp;fire=FF1744&amp;sideLabels=FF1744" alt="GitHub streak" />
 </p>
+
+
+
 
 ---
 
