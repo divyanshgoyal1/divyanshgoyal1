@@ -25,16 +25,13 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
   <a href="mailto:contact@divyanshgoyal.me" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-270026?style=for-the-badge&logo=gmail&logoColor=FF1744" />
   </a>
-  <a href="https://linkedin.com/in/realdivyanshgoyal" style="text-decoration:none; margin-left: 7px;">
-    <img src="https://img.shields.io/badge/LinkedIn-270026?style=for-the-badge&logo=linkedin&logoColor=FF1744" />
-  </a>
-  <a href="https://instagram.com/divyanshgoyal.me" style="text-decoration:none; margin-left: 7px;">
+  <a href="https://instagram.com/d1vyanshgoyal" style="text-decoration:none; margin-left: 7px;">
     <img src="https://img.shields.io/badge/Instagram-270026?style=for-the-badge&logo=instagram&logoColor=FF1744" />
   </a>
   <a href="https://github.com/divyanshgoyal1" style="text-decoration:none; margin-left: 7px;">
     <img src="https://img.shields.io/badge/GitHub-270026?style=for-the-badge&logo=github&logoColor=FF1744" />
   </a>
-  <a href="https://leetcode.com/realdivyanshgoyal" style="text-decoration:none; margin-left: 7px;">
+  <a href="https://leetcode.com/d1vyanshgoyal" style="text-decoration:none; margin-left: 7px;">
     <img src="https://img.shields.io/badge/LeetCode-270026?style=for-the-badge&logo=leetcode&logoColor=FF1744" />
   </a>
 </p>
