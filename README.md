@@ -78,16 +78,26 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshgoyal1&theme=radical&hide_border=false&background=270026,440033&currStreakLabel=FF1744&ring=FF1744&fire=FF1744&sideLabels=FF1744" alt="GitHub streak" />
 </p>
 
+---
+
+### 🧩 Most Used Languages
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: #000000; padding: 10px; margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgoyal1&layout=compact&langs_count=8&theme=radical&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </p>
 
-🔝Top Contributed Repo
+---
+
+## 🔝Top Contributed Repo
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: #000000; padding: 10px; margin-top: 10px;">
   <img src="https://github-contributor-stats.vercel.app/api?username=divyanshgoyal1&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="Top Contributed Repositories" />
 </p>
 
+---
 
+## ✍️ Random Dev Quote
+<p align="center" style="margin-top: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&border_color=FF1744&text_color=FF1744" alt="Random Developer Quote" />
+</p>
 
 
 ---
