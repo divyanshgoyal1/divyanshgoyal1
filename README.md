@@ -95,9 +95,11 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 ---
 
 ## ✍️ Random Dev Quote
-<p align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&border_color=FF1744&text_color=FF1744" alt="Random Developer Quote" />
-</p>
+<div align="center" style="margin-top: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&border_color=FF1744&text_color=FF1744" alt="Random Developer Quote" style="width: 100%; height: auto; display: block;" />
+</div>
+
+
 
 
 ---
