@@ -36,6 +36,20 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/divyanshgoyal1">
+    <img src="https://komarev.com/ghpvc/?username=divyanshgoyal1&color=FF1744&label=Profile%20Views&style=flat-square&labelColor=270026" />
+  </a>
+  <a href="https://github.com/divyanshgoyal1">
+    <img src="https://img.shields.io/github/followers/divyanshgoyal1?label=GitHub%20Followers&color=FF1744&style=flat-square&labelColor=8888888" />
+  </a>
+</p>
+
+
+
+
+
 ---
 
 ### 🧠 Skills
