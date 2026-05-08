@@ -18,17 +18,13 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 
 ---
 
-# Zinux 🚀
-
-![Build](https://github.com/thedivyanshgoyal/zinux/actions/workflows/main.yml/badge.svg)
-
 
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thedivyanshgoyal/thedivyanshgoyal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thedivyanshgoyal/thedivyanshgoyal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thedivyanshgoyal/thedivyanshgoyal/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinksgoyal/vinksgoyal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinksgoyal/vinksgoyal/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinksgoyal/vinksgoyal/output/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -37,26 +33,27 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 ### 📬 Connect with Me
 
 <p align="center" style="margin-top: 8px;">
-  <a href="mailto:contact@divyanshgoyal.me" style="text-decoration:none;">
+  <a href="mailto:dvyshgyl@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-270026?style=for-the-badge&logo=gmail&logoColor=FF1744" />
   </a>
-  <a href="https://instagram.com/d1vyanshgoyal" style="text-decoration:none; margin-left: 7px;">
+  <a href="https://instagram.com/vinksgoyal" style="text-decoration:none; margin-left: 7px;">
     <img src="https://img.shields.io/badge/Instagram-270026?style=for-the-badge&logo=instagram&logoColor=FF1744" />
   </a>
-  <a href="https://github.com/divyanshgoyal1" style="text-decoration:none; margin-left: 7px;">
-    <img src="https://img.shields.io/badge/GitHub-270026?style=for-the-badge&logo=github&logoColor=FF1744" />
-  </a>
-  <a href="https://leetcode.com/d1vyanshgoyal" style="text-decoration:none; margin-left: 7px;">
-    <img src="https://img.shields.io/badge/LeetCode-270026?style=for-the-badge&logo=leetcode&logoColor=FF1744" />
-  </a>
+<a href="https://www.linkedin.com/in/vinksgoyal" style="text-decoration:none; margin-left: 7px;">
+  <img src="https://img.shields.io/badge/LinkedIn-270026?style=for-the-badge&logo=linkedin&logoColor=FF1744" />
+</a>
+<a href="https://divyanshgoyal.dev" style="text-decoration:none; margin-left: 7px;">
+  <img src="https://img.shields.io/badge/Blog-270026?style=for-the-badge&logo=hashnode&logoColor=FF1744" />
+</a>
+  
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/divyanshgoyal1">
+  <a href="https://github.com/vinksgoyal">
     <img src="https://komarev.com/ghpvc/?username=divyanshgoyal1&color=FF1744&label=Profile%20Views&style=flat-square&labelColor=270026" />
   </a>
-  <a href="https://github.com/divyanshgoyal1">
+  <a href="https://github.com/vinksgoyal">
     <img src="https://img.shields.io/github/followers/divyanshgoyal1?label=GitHub%20Followers&color=FF1744&style=flat-square&labelColor=8888888" />
   </a>
 </p>
@@ -86,25 +83,25 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 ### 📊 GitHub Stats
 
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: linear-gradient(135deg, #270026 0%, #440033 100%); padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedivyanshgoyal&show_icons=true&theme=dark&title_color=FF1744&icon_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinksgoyal&show_icons=true&theme=dark&title_color=FF1744&icon_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="GitHub stats" />
 </p>
 
 <p align="center" style="margin-top:10px; box-shadow:0 0 30px #ff1744cc; border-radius:20px; overflow:hidden; background:linear-gradient(135deg, #270026 0%, #440033 100%); padding:10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedivyanshgoyal&theme=radical&hide_border=false&background=270026,440033&currStreakLabel=FF1744&ring=FF1744&fire=FF1744&sideLabels=FF1744" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinksgoyal&theme=radical&hide_border=false&background=270026,440033&currStreakLabel=FF1744&ring=FF1744&fire=FF1744&sideLabels=FF1744" alt="GitHub streak" />
 </p>
 
 ---
 
 ### 🧩 Most Used Languages
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: #000000; padding: 10px; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedivyanshgoyal&layout=compact&langs_count=8&theme=radical&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinksgoyal&layout=compact&langs_count=8&theme=radical&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </p>
 
 ---
 
 ## 🔝Top Contributed Repo
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: #000000; padding: 10px; margin-top: 10px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=thedivyanshgoyal&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=vinksgoyal&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="Top Contributed Repositories" />
 </p>
 
 ---
